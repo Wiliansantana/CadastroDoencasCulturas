@@ -146,14 +146,14 @@ section ul li:before {
 	border-color: rgba(255,255,255,.02)
 }
 .navbar-default .navbar-toggle {
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #FF8000;
+	border-color: #FF8000;
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #fff
 }
 .navbar-default .navbar-toggle:hover,.navbar-default .navbar-toggle:focus {
-	background-color: #fed136
+	background-color: #f3800d;
 }
 .navbar-default .nav li a {
 	font-family: "Open Sans",sans-serif;
@@ -164,14 +164,14 @@ section ul li:before {
 	color: #444448;
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
-	color: #fed136;
+	color: #FF8000;
 	outline: 0
 }
 
 .navbar-default .navbar-nav>.active>a {
 	border-radius: 0;
 	color: #fff;
-	background-color: #fed136
+	background-color: #FF8000;
 }
 .navbar-default .navbar-nav>.active>a:hover,.navbar-default .navbar-nav>.active>a:focus {
 	color: #fff;
@@ -982,14 +982,14 @@ color: #fff;
 	text-transform: uppercase;
 	text-decoration: none;
 	color: #FFFFFF;
-	background: #A9A9B1;
+	background: #f3800d;
 	/* background color transition */
 	-webkit-transition: 1s;
 	-moz-transition: 1s;
 	transition: 1s;
 }
 #back-top a:hover {
-	background: #fed136;
+	background: #FF8000;
 }
 /* arrow icon (span tag) */
 #back-top i {
