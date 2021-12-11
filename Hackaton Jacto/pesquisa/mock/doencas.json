@@ -1,0 +1,94 @@
+{
+    "Doencas": [
+        {
+            "Nome": "Atrofia dos Ramos",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/atr.jpg",
+            "Descricao": "A principal caracerística da doença é a ocorrência de internódios curtos por falta de zinco, e ramos que apresentam um 'tufo' de folhas pequenas. Quando a doença se desenvolve, as folhas caem e os ramos ficam com aspecto de varetas. Além disso, apresenta goma no xilema, acúmulo de cristais de oxalato de cálcio, reduz ou ausente os cloroplastos nas folhas. Bloqueia uma parte dos vasos do xilema por causa da presença das célular bacterianas e podendo produzir fitotoxinas, que podem estar relacionadas aos sintomas da queima foliar.",
+            "SintomasFolha": "Queda"
+              
+        },
+        {
+            "Nome": "Mancha Aureolada",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/aure.jpg",
+            "Descricao": "A doença ataca nas folhas, frutos novos e ramos novos. Nas folhas velhas, aparecem manchas de forma irregular e de coloração parda-escura e anel amarelo. A área infectada rompe-se e fica um furo ou uma área vazia no centro da mancha. Em viveiros, a bactéria provoca necrose nos tecidos jovens e queima nas folhas. Já na lavouras com altitude acima de 800m e com ventos frios, a bactéria provoca desfolha e seca de ramos laterais, assim reduzindo a produção.",
+            "SintomasFolha": "Mudança de coloração/Manchas"
+        },
+        {
+            "Nome": "Ferrugem",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/ferrugen.jpg",
+            "Descricao": "Aparece manchas de coloração amarelo-pálida na face inferior das folhas e depois evoluem e ficam com coloração amarelo-alaranjado. Já na face superior aparecem manchas cloróticos amareladas. A característica distintiva da ferrugem é a formação de pústulas. A doença aparece em frutos verdes e nos ramos das brotações novas. Ataques severos podem causar a desfolha, assim comprometendo a produção.",
+            "SintomasFolha": "Mudança de coloração/Manchas"
+        },
+        {
+            "Nome": "Mancha de Phoma",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/mancha%20de%20phoma%20-%20Copia.jpg",
+            "Descricao": "Normalmente ocorre em folhas jovens que apresentam lesões com aspecto enrugado, nas quais surgem pontuaçoes negras que se desenvolvem em manchas escuras. Dessa forma, os frutos jovens ficam negros e os já formados apresenta frutificações da patologia. Consequentemente ocorre a queda de folhas e frutos, a seca de ramos a queima de botões.",
+            "SintomasFolha": "Mudança de coloração/Manchas",
+            "SintomasFruto": "Queda"
+        },
+        {
+            "Nome": "Mancha de Olho Pardo",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/mancha%20olho%20pardo%20-%20Copia.jpg",
+            "Descricao": "Pode ser infectado em todas as fases da planta. Nas folhas aparece manchas circulares com coloração pardo-clara ou marrom-escura, no centro cor branco-acizentado e com anel amarelado. Aparece lesões nos frutos quando estão próximos da maturação, essas lesões tem coloração marrom ou roxeadas. Esses frutos atacados maduram mais rápidos e caem antes da colheita e assim aumentando os grãos chochos.",
+            "SintomasFolha": "Mudança de coloração/Manchas",
+            "SintomasFruto": "Lesões"
+        },
+        {
+            "Nome": "Roseliniose",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/roseli%20-%20Copia.jpg",
+            "Descricao": "Amarelecimento e murchamento das plantas no início, queda das folhas e consequente morte dos ramos, a casca se seca e acaba por se soltar do restante da planta. Há mal formação de frutos e pode resultar na morte do cafeeiro. Os rizomorfos formados adquirem coloração escura com nós nas ramificações. A casca escurece e apresenta cortes longitudinais como linhas negras.",
+            "SintomasFolha": "Mudança de coloração/Manchas",
+            "SintomasFruto": "Má Formação"
+        },
+        {
+            "Nome": "Mancha Anular",
+            "Cultura": "Café",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/anular.jpg",
+            "Descricao": "Essa doença pode ocorrer nas folhas mais internas onde são mais sombreadas e em frutos do cafeeiro. Aparecem manchas alongadas no sentido das nervuras das folhas. Essas manchas são formadas por linhas claras e escuras alternadamente. Já nos frutos, podem aparecer lesões com anéis cloróticos salientes, e são mais evidentes em frutos amadurecidos.",
+            "SintomasFolha": "Mudança de coloração/Manchas",
+            "SintomasFruto": "Lesões"
+        },
+        {
+            "Nome": "Antracnose Foliar",
+            "Cultura": "Milho",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/antrac.jpg",
+            "Descricao": "Lesões necróticas, pardacentas, arrendondadas ou ovaladas. Ataques intensos podem causar extensa queima foliar.",
+            "SintomasFolha": "Queima"
+        },
+        {
+            "Nome": "Bacillus avenae",
+            "Cultura": "Milho",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/er.jpg",
+            "Descricao": "Causa queima nas folhas e podridão do colmo das plantas. Nas folhas, os sintomas se iniciam por lesões anasarcadas, de cor verde-clara. Em condições favoráveis as lesões aumentam em tamanho, acompanhando o comprimento das nervuras.",
+            "SintomasFolha": "Queima"
+        },
+        {
+            "Nome": "Crestramento Bacteriano",
+            "Cultura": "Soja",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/crestamento.jpg",
+            "Descricao": "A doença pode ser encontrada nas hastes, pecíolos e vagens, mas principalmente nas folhas, nas quais se formam pequenas manchas translúcidas que com o tempo se juntam e decompõem os tecidos.",
+            "SintomasFolha": "Mudança de coloração/Manchas"
+        },
+        {
+            "Nome": "Cancro da Haste",
+            "Cultura": "Soja",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/cancro.jpg",
+            "Descricao": "São pequenos pontos negros que mudam para manchas castanho-avermelhada, de formas alongadas e geralmente de um lado da haste. Essas lesões podem ser profundas e quando severas quebram da haste e do acamamento. A lavoura altamente infectada são totalmente dizimadas. Já a infecção das sementes são baixas. A primeira indicação de que a planta foi infectada, são a presença de folhas amarelas e com necrose nas nervuras.",
+            "SintomasFolha": "Mudança de coloração/Manchas"
+        },
+        {
+            "Nome": "Mosaico Rugoso da Soja",
+            "Cultura": "Soja",
+            "Imagem": "https://wiliansantana.github.io/CadastroDoencasCulturas/Hackaton%20Jacto/images/mosaicocomumsoja%20-%20Copia.jpg",
+            "Descricao": "Leve encarquilhamento das folhas, formação de bolhas verdes-escuras, circundadas por áreas verde-claras, levemente translucidas. Limbo foliar apresenta formação de bolhas e rugosidades. Formação de enações filiformes a partir da extremidade da nervura central da folha. Sementes manchadas.",
+            "SintomasFolha": "Rugas"
+        }
+
+    ]   
+}

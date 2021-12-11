@@ -1,0 +1,192 @@
+a.option {
+    padding: 8px;
+    display: list-item;
+}
+
+.filtros {
+    display: inline-flex;
+}
+
+.sectionFiltro {
+    padding-right: 12%;
+}
+
+.filtroEstilo {
+    width: 290px;
+    display: inline-block;
+    padding: 8px 20px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 0px;
+    background-color: #FCBE03;
+    color: #fff;
+}
+
+/* design do model das doenças */
+.modal-header {
+    background-color: antiquewhite;
+    text-shadow: 0 0 black;
+}
+
+img.icon-bar {
+    width: 20px;
+}
+
+.botaoVerMais {
+    background-color: #2d2c2c;
+    border-color: #2d2c2c;
+    height: 31px;
+    width: 150px;
+    margin-left: 35%;
+    color: #fff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+h5.text-left {
+    padding: 6px;
+}
+
+.doenca {
+    border-style: dotted;
+    height: 300px;
+}
+
+.doenca-img {
+    height: 200px;
+    width: 300px;
+}
+
+.descricao h3 {
+    padding: 15px;
+    text-align: center;
+    font-size: x-large;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-size: 24%;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+}
+
+.image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.container:hover .image {
+    opacity: 0.3;
+}
+
+.container:hover .middle {
+    opacity: 1;
+}
+
+.text {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+
+.imgModel_doenca{
+    width: 50%;
+    height: 20%;
+    padding-top: 2%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.modal-title{
+    margin-bottom: 0;
+    line-height: 1.5;
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: inherit;
+}
+
+.botaoFechar{
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.modal-header .close {
+    padding: 0rem 1rem;
+    margin: -1.5rem -1rem -1rem auto;
+    background-color: transparent;
+    border: 0;
+    background: transparent;
+    -webkit-appearance: none;
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+}
+
+.VerMais{
+    padding-bottom: 2%;
+}
+
+.optionFiltro{
+    background-color: #fff;
+    color: black;
+}
